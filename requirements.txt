@@ -1,0 +1,7 @@
+mcp[cli]>=2,<3
+httpx
+pydantic-settings
+
+# Testing dependencies
+pytest>=8.4
+pytest-asyncio>=1.0
